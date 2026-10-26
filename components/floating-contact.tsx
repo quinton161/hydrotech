@@ -1,0 +1,2 @@
+import { site } from "@/lib/site";
+export function FloatingContact(){const number=process.env.NEXT_PUBLIC_WHATSAPP_NUMBER;return number&&/^263[0-9]{9}$/.test(number)?<a className="floating-contact" href={`https://wa.me/${number}?text=${encodeURIComponent(site.whatsappMessage)}`} target="_blank" rel="noreferrer" aria-label="Chat with Hydrotech Drilling on WhatsApp"><span aria-hidden="true">◉</span> WhatsApp</a>:<a className="floating-contact" href={`tel:${site.phoneHref}`} aria-label="Call Hydrotech Drilling"><span aria-hidden="true">↗</span> Call Hydrotech</a>;}

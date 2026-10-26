@@ -1,0 +1,4 @@
+import { proposedTopics, posts } from "@/lib/content";
+import { PostCard } from "@/components/post-card";
+import { SectionHeading } from "@/components/section-heading";
+export function InsightsSection() { return <section className="section section-white"><div className="container"><SectionHeading eyebrow="Insights" title="Understanding your water supply." description="Water, maintenance and the decisions behind a dependable system."/><div className="blog-grid">{posts.length ? posts.map(post=><PostCard key={post.slug} post={post}/>) : proposedTopics.map((title,i)=><article className="topic-card" key={title}><span className="card-index">0{i+1} / PROPOSED TOPIC</span><h3>{title}</h3><p>Planned for our insights library. This article has not been published.</p></article>)}</div></div></section>; }

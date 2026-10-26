@@ -1,0 +1,76 @@
+[
+  {
+    "key": "drilling-rig",
+    "source": "https://commons.wikimedia.org/wiki/File:Borewell_digging.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Borewell_digging.jpg",
+    "author": "Vijayanrajapuram",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Borewell digging\nA borehole is a narrow shaft bored in the ground, either vertically or horizontally. A borehole may be constructed for many different purposes, including the extraction of water, other liquids (such as petroleum) or gases (such as natural gas), as part of a geotechnical investigation, environmental site assessment, mineral exploration, temperature measurement, as a pilot hole for installing piers or underground utilities, for geothermal installations, or for underground storage of unwanted substances, e.g. in carbon capture and storage."
+  },
+  {
+    "key": "siting-survey",
+    "source": "https://commons.wikimedia.org/wiki/File:Electrical_resistivity_tomography_profile.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Electrical_resistivity_tomography_profile.jpg",
+    "author": "Ekrem Canli",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Deployment of a permanent Electrical resistivity tomography profile on a \tlongitudinal section of an active landslide"
+  },
+  {
+    "key": "storage-tanks",
+    "source": "https://commons.wikimedia.org/wiki/File:Pumped_water_flowing_into_the_storage_tanks_in_Otho_Abwao_Kenya.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pumped_water_flowing_into_the_storage_tanks_in_Otho_Abwao_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Oertherdb&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Oertherdb (page does not exist)\">Oertherdb</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Clean drinking water flows from a solar powered pump, through a mile of service line, and enter a concrete storage tank as part of the water system constructed in Otho Abwao Kenya by the University of Cincinnati student chapter of Engineers Without Borders",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pumped_water_flowing_into_the_storage_tanks_in_Otho_Abwao_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "key": "solar-array",
+    "source": "https://commons.wikimedia.org/wiki/File:Solar_pumps_offer_an_alternative_to_windmills_in_West_Texas._(24994678802).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Solar_pumps_offer_an_alternative_to_windmills_in_West_Texas._%2824994678802%29.jpg",
+    "author": "USDA NRCS Texas",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "description": "This image or file is a work of a United States Department of Agriculture employee, taken or made as part of that person's official duties. As a work of the U.S. federal government, the image is in the public domain."
+  },
+  {
+    "key": "submersible-pump",
+    "source": "https://commons.wikimedia.org/wiki/File:Submersible_pump_0.75HP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Submersible_pump_0.75HP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Mar11\" title=\"User:Mar11\">Mar11</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Submersible pump 0.75 HP",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/10/Submersible_pump_0.75HP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "key": "solar-pump",
+    "source": "https://commons.wikimedia.org/wiki/File:The_SWPS_is_one_of_three_products_in_Gham%27s_portfolio..jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_SWPS_is_one_of_three_products_in_Gham%27s_portfolio..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Prabuddha_Raj&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Prabuddha Raj (page does not exist)\">Prabuddha Raj</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Solar Water Pumps are examples of Gham's productive end-use appliances. Nepal",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/The_SWPS_is_one_of_three_products_in_Gham%27s_portfolio..jpg/3840px-The_SWPS_is_one_of_three_products_in_Gham%27s_portfolio..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  {
+    "key": "drilling-landscape",
+    "source": "https://commons.wikimedia.org/wiki/File:Water_well_drilling_rig.jpg",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/82/Water_well_drilling_rig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Water_well_drilling_rig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mcfly05&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mcfly05 (page does not exist)\">Mcfly05</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "key": "pump-equipment",
+    "source": "https://commons.wikimedia.org/wiki/File:A_photo_on_Submersible_Pump.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_photo_on_Submersible_Pump.JPG",
+    "author": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Thamizhpparithi_Maari\" title=\"User:Thamizhpparithi Maari\">Thamizhpparithi Maari</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+]

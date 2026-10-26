@@ -1,0 +1,7 @@
+import { pageMetadata } from "@/lib/metadata";
+import type { Metadata } from "next";
+import { PageHero } from "@/components/page-hero";
+import { WaterAbout } from "@/components/water-about";
+import { WhyHydrotech } from "@/components/why-hydrotech";
+export const metadata:Metadata=pageMetadata({title:"About Us",description:"Zimbabwean-owned borehole drilling and water solutions for homes, farms, businesses and institutions.",alternates:{canonical:"/about"}});
+export default function About(){return <><PageHero eyebrow="About Hydrotech" title="Water for the way you live and work." description="A Zimbabwean-owned company providing professional borehole drilling and complete water solutions across Zimbabwe."/><WaterAbout/><section className="section section-white"><div className="container"><div className="intro-strip"><div><p className="eyebrow">Our mission</p><h2 className="section-title">Reliable water. Lasting value.</h2><p>To provide reliable, affordable and sustainable water solutions that help households, farms, businesses and communities access dependable water supplies.</p></div><div><p className="eyebrow">Our vision</p><h2 className="section-title">Service you can trust.</h2><p>To become a trusted provider of borehole drilling and water solutions in Zimbabwe, recognised for professional service, quality workmanship and customer satisfaction.</p></div></div></div></section><WhyHydrotech/></>;}

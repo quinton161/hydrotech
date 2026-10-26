@@ -1,0 +1,5 @@
+import { projects } from "@/lib/content";
+import { ProjectCard } from "@/components/project-card";
+import { SectionHeading } from "@/components/section-heading";
+import { ButtonLink } from "@/components/button-link";
+export function ProjectsSection() { return <section className="section section-white"><div className="container"><SectionHeading eyebrow="Our projects" title="Water solutions. Real-world impact." description="Borehole, irrigation and solar water systems across Zimbabwe." link={{href:"/projects",label:"Our projects"}}/>{projects.length ? <div className="projects-grid">{projects.map(project=><ProjectCard key={project.slug} project={project}/>)}</div> : <div className="project-empty"><div><p className="eyebrow">Project portfolio</p><h3>Our work, documented with care.</h3><p>Verified project stories and photographs will be added here. For now, talk to our team about the water solution you have in mind.</p></div><ButtonLink href="/request-a-quote" variant="outline">Discuss your project</ButtonLink></div>}</div></section>; }
